@@ -43,6 +43,7 @@ Expected CSV format:
 email,label
 "Hello, I saw your profile...",personal
 "WIN A FREE IPHONE NOW!",spam
+
 🚀 How to Run
 Install dependencies:
 
