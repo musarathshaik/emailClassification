@@ -39,7 +39,7 @@ The classifier is designed for **real-time applications**, such as:
 ## 📊 Dataset Format
 
 Expected CSV format:
-```csv
+
 email,label
 "Hello, I saw your profile...",personal
 "WIN A FREE IPHONE NOW!",spam
