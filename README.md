@@ -53,8 +53,11 @@ Run training:
 python train_model.py
 Run email classification:
 python classify_email.py
+
 👨‍💻 Author
 Developed by SHAIK MUSARATH
+
 Internship Project – Advanced AI and Deep Learning
+
 Organization: TECHNEXA
 
